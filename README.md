@@ -9,9 +9,9 @@ pkg install git
 pip install bs4
 pip install mechanize
 pip install colorama
-git clone https://github.com/darkdevil120/Dark_Devill.git
-cd Dark_Devill
-python Dark_Devil.py
+git clone https://github.com/darkdevil120/Instagram-likes-.git
+cd nstagram-likes-
+python nstagram-likes.py
 ```
 
 ___This Tools is Free Enjoy Dear User.___</br>
