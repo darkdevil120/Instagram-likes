@@ -9,7 +9,7 @@ pkg install git
 pip install bs4
 pip install mechanize
 pip install colorama
-git clone https://github.com/darkdevil120/Instagram-likes-.git
+git clone [https://github.com/darkdevil120/Instagram-likes-.git](https://github.com/darkdevil120/Instagram-likes.git)
 cd nstagram-likes-
 python nstagram-likes.py
 ```
